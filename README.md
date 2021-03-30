@@ -1,2 +1,1 @@
-# Tensorflow-course-HW1
-First homework for the Deep Neural Network with Tensorflow. Indcludes kNN, SVM, Two layer neural network 
+Details about this assignment can be found [on the course webpage](https://deep-learning-su.github.io/), under Assignment #1 of Spring 2017.
